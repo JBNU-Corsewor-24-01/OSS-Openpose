@@ -1,5 +1,6 @@
 # OSS-Openpose
 
+# Please refer to https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
 
 # OpenPose CPU Version Setup and Example Execution
 
